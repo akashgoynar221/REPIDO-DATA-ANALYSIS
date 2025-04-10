@@ -1,3 +1,33 @@
+# Rapido Data Analysis Project
+
+This project focuses on analyzing ride data from **Rapido**, one of India’s leading bike taxi platforms. The goal was to understand booking patterns, user preferences, cancellations, and payment trends using a mix of SQL and Power BI.
+
+##  Tools Used
+- Power BI – for data visualization
+- SQL – for querying and data extraction
+- Excel – for initial data cleaning
+
+## 📈 Project Overview
+
+In this project, I analyzed ride data from Rapido to understand user behavior, booking trends, and service performance. Using SQL, I queried the data to extract insights like top vehicle types, cancellation patterns, and customer ratings. Then I visualized everything using Power BI — from ride volumes and payment methods to user ratings and revenue trends.
+
+- Bike rides were the most popular, especially on weekends and during peak hours.
+- Driver-side cancellations** were relatively high and need improvement.
+- Ratings stayed consistent but showed room for better experience.
+- UPI and cash were the most used payment methods.
+- Suggestions were added to improve service delivery and trust.
+
+## Folder Structure
+
+## Live Project
+🔗 [GitHub Repository](https://github.com/akashgoynar221/REPIDO-DATA-ANALYSIS)
+
+##  About Me
+Akash Goynar
+📧 akashgoynar221@gmail.com  
+🌐 [GitHub](https://github.com/akashgoynar221)
+
+
 repido Data Analyst Project
 SQL Questions:
 1. Retrieve all successful bookings:
