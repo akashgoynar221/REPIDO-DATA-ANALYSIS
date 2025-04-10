@@ -1,11 +1,11 @@
 
-create database ola;
+create database repido;
 use  ola;
 
 show databases;
 show tables;
 
-select*from ola;
+select*from repido;
 
 select Booking_status 
 from bookings;
